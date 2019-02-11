@@ -8,3 +8,5 @@ Python 3.7.2
 ✔ ~
 17:58 $ pipenv --version
 pipenv, version 2018.11.26
+
+Definitely got stuck in vim, retrying with nano.
